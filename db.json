@@ -2,52 +2,52 @@
   "Food": [
     {
       "id": 1,
-      "title": "Vegan 1",
+      "title": "Bread",
       "type":"Vegan"
     },
      {
       "id": 2,
-      "title": "Vegan 2",
+      "title": "Rice",
         "type":"Vegan"
     },
      {
       "id": 3,
-      "title": "Vegan 3",
+      "title": "Pasta",
         "type":"Vegan"
     },
      {
       "id": 4,
-      "title": "Vegan 4",
+      "title": "Coconut Milk",
         "type":"Vegan"
     },
      {
       "id": 5,
-      "title": "Vegan 5",
+      "title": "Almond Milk",
         "type":"Vegan"
     },
      {
       "id": 6,
-      "title": "Fat free 1",
+      "title": "Beans salad",
         "type":"Fat Free"
     },
      {
       "id": 7,
-      "title": "Fat free 2",
+      "title": "Mushroom fry",
         "type":"Fat Free"
     },
      {
       "id": 8,
-      "title": "Fat Free 3",
+      "title": "Garlic Bread",
         "type":"Fat Free"
     },
      {
       "id": 9,
-      "title": "Fat Free 4",
+      "title": "Sweet Potato soup",
         "type":"Fat Free"
     },
      {
       "id": 10,
-      "title": "Fat Free 5",
+      "title": "Cherry Juice",
         "type":"Fat Free"
     }
     
