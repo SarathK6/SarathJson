@@ -1,9 +1,57 @@
 {
-  "posts": [
+  "Food": [
     {
       "id": 1,
-      "title": "hello"
+      "title": "Vegan 1",
+      "type":"Vegan"
+    },
+     {
+      "id": 2,
+      "title": "Vegan 2",
+        "type":"Vegan"
+    },
+     {
+      "id": 3,
+      "title": "Vegan 3",
+        "type":"Vegan"
+    },
+     {
+      "id": 4,
+      "title": "Vegan 4",
+        "type":"Vegan"
+    },
+     {
+      "id": 5,
+      "title": "Vegan 5",
+        "type":"Vegan"
+    },
+     {
+      "id": 6,
+      "title": "Fat free 1",
+        "type":"Fat Free"
+    },
+     {
+      "id": 7,
+      "title": "Fat free 2",
+        "type":"Fat Free"
+    },
+     {
+      "id": 8,
+      "title": "Fat Free 3",
+        "type":"Fat Free"
+    },
+     {
+      "id": 9,
+      "title": "Fat Free 4",
+        "type":"Fat Free"
+    },
+     {
+      "id": 10,
+      "title": "Fat Free 5",
+        "type":"Fat Free"
     }
+    
+    
   ],
   "profile": {
     "name": "typicode"
